@@ -38,7 +38,8 @@
           done = true;
         }
         else if (event.data == YT.PlayerState.ENDED) {
-       	window.location = '../prototype.html';
+       	//window.location = '../prototype.html';
+        window.location = 'https://invis.io/A6VXMX1PY28';
   }
       }
       function stopVideo() {
